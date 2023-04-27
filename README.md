@@ -2,6 +2,8 @@
 
 ## Deploy
 1. [How To Set Up HTTP Basic Auth with Apache on Ubuntu](https://github.com/tmh-rc/how-to/blob/main/How_To_Set_Up_HTTP_Basic_Auth_With_Apache_On_Ubuntu.md)
+2. [How To Change Port Number in Apache in Ubuntu](https://github.com/tmh-rc/how-to/blob/main/How_To_Change_Port_Number_in_Apache_in_Ubuntu.md)
+3. [https://github.com/tmh-rc/how-to/blob/main/How_To_Install_Linux_Apache_MySQL_PHP_LAMP_Stack_on_Ubuntu.md](https://github.com/tmh-rc/how-to/blob/main/How_To_Install_Linux_Apache_MySQL_PHP_LAMP_Stack_on_Ubuntu.md)
 
 ## Laravel
 1. [How to get user avatar image from facebook by token in Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Get_Facebook_Avator_Image_In_Laravel.md)
