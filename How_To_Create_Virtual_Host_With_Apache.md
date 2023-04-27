@@ -1,26 +1,24 @@
 # How to create virtual with Apache
 
----
-
 
 ## Step 1 — Update Hosts File
+
 
 1. Open the system `hosts` file located at `C:\Windows\system32\dirvers\etc\hosts` in text editor.
 
 2. Replace the following contents:
+
 
 ```
   # localhost name resolution is handled within DNS itself.
     127.0.0.1     example.test
 ```
 
----
 
 ## Step 2 — Create Folder For Domains
 
 You can either create a new folder in `C:/Apache24/htdocs` or create a new folder path in `D:/`
 
----
 
 ## Step 3 — Update Virtual Host in Apache Configuration
 
@@ -47,7 +45,6 @@ You can either create a new folder in `C:/Apache24/htdocs` or create a new folde
 - `DocumentRoot` & `Directory` is your project folder path.
 - `DirectoryIndex index.php` line specifies the default index file for the directory.
 
----
 
 ## Step 4 — Update `httpd.conf` File
 
@@ -61,7 +58,6 @@ Include conf/extra/httpd-vhosts.conf
 
 ```
 
----
 
 ## Step 5 — Restart Apache
 
@@ -72,4 +68,3 @@ Include conf/extra/httpd-vhosts.conf
   example.test
 ```
 
----
