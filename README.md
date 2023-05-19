@@ -6,6 +6,8 @@
 3. [How To Install Linux, Apache, MySQL, PHP LAMP Stack on Ubuntu](https://github.com/tmh-rc/how-to/blob/main/How_To_Install_Linux_Apache_MySQL_PHP_LAMP_Stack_on_Ubuntu.md)
 4. [How to setup an Apache reverse proxy server](https://github.com/tmh-rc/how-to/blob/main/How_to_setup_an_Apache_reverse_proxy_server.md)
 5. [How to Add a new SSH key to your GitHub account](https://github.com/tmh-rc/how-to/blob/main/How_to_Add_a_new_SSH_key_to_your_GitHub_account.md)
+6. [How To Install Node.js on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+7. [How To Install PHP 8.1 and Set Up a Local Development Environment on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-php-8-1-and-set-up-a-local-development-environment-on-ubuntu-22-04)
 
 ## Laravel
 1. [How to get user avatar image from facebook by token in Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Get_Facebook_Avator_Image_In_Laravel.md)
