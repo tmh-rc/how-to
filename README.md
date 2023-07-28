@@ -9,6 +9,7 @@
 6. [How To Install Node.js on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
 7. [How To Install PHP 8.1 and Set Up a Local Development Environment on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-php-8-1-and-set-up-a-local-development-environment-on-ubuntu-22-04)
 8. [How To Create Virtual Host For Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Create_Virtual_Host_For_Laravel.md)
+9. [How to clone multiple private repository from github to a linux server?](https://github.com/tmh-rc/how-to/blob/main/how_to_clone_multiple_private_repository_from_github_to_a_linux_server.md)
 
 ## Laravel
 1. [How to get user avatar image from facebook by token in Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Get_Facebook_Avator_Image_In_Laravel.md)
