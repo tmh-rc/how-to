@@ -1,7 +1,7 @@
 # How To Create User On MySQL
 
-- Create User[#create-user]
-- Change User Password[#change-user-password]
+- [Create User](#create-user)
+- [Change User Password](#change-user-password)
 
 ## Create User
 
