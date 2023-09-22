@@ -83,3 +83,8 @@ Finally type SQL command to reload the grant tables in the mysql database:
 ```mysql
 FLUSH PRIVILEGES;
 ```
+
+Ref:
+
+- https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04#step-6-testing-database-connection-from-php-optional
+- https://www.cyberciti.biz/faq/mysql-change-user-password/
