@@ -1,0 +1,61 @@
+# How To Create A User In MySQL
+
+Create a database named `example_database` and a user named `example_user`. You can replace these names with different values.
+
+First, connect to the MySQL console using the root account:
+
+```bash
+sudo mysql
+```
+
+To create a new database, run the following command from your MySQL console:
+
+```mysql
+CREATE DATABASE example_database;
+```
+
+The following command creates a new user named `example_user`. We’re defining this user’s password as `password`, but you should replace this value with a secure password of your own choosing.
+
+```mysql
+CREATE USER 'example_user'@'%' IDENTIFIED BY 'password';
+```
+
+Now give this user permission over the `example_database` database:
+
+```mysql
+GRANT ALL ON example_database.* TO 'example_user'@'%';
+```
+
+This will give the example_user user full privileges over the example_database database, while preventing this user from creating or modifying other databases on your server.
+
+Now exit the MySQL shell with:
+
+```mysql
+exit
+```
+
+Test if the new user has the proper permissions by logging in to the MySQL console again, this time using the custom user credentials:
+
+```bash
+mysql -u example_user -p
+```
+
+Notice the `-p` flag in this command, which will prompt you for the password used when creating the `example_user` user. After logging in to the MySQL console, confirm that you have access to the `example_database` database:
+
+```mysql
+SHOW DATABASES;
+```
+
+This will give you the following output:
+
+```
+Output
++--------------------+
+| Database           |
++--------------------+
+| example_database   |
+| information_schema |
++--------------------+
+2 rows in set (0.000 sec)
+```
+
