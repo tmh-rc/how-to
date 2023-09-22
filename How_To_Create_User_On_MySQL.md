@@ -1,4 +1,9 @@
-# How To Create A User In MySQL
+# How To Create User On MySQL
+
+- Create User[#create-user]
+- Change User Password[#change-user-password]
+
+## Create User
 
 Create a database named `example_database` and a user named `example_user`. You can replace these names with different values.
 
@@ -42,7 +47,7 @@ mysql -u example_user -p
 
 Notice the `-p` flag in this command, which will prompt you for the password used when creating the `example_user` user. After logging in to the MySQL console, confirm that you have access to the `example_database` database:
 
-```mysql
+```bash
 SHOW DATABASES;
 ```
 
@@ -59,3 +64,22 @@ Output
 2 rows in set (0.000 sec)
 ```
 
+## Change User Password
+
+Open the bash shell and connect to the server as root user:
+
+```bash
+mysql -u root -p
+```
+
+Run ALTER mysql command:
+
+```mysql
+ALTER USER 'example_user'@'%' IDENTIFIED BY 'new-password';
+```
+
+Finally type SQL command to reload the grant tables in the mysql database:
+
+```mysql
+FLUSH PRIVILEGES;
+```
