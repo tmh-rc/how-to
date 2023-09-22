@@ -11,6 +11,7 @@
 8. [How To Create Virtual Host For Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Create_Virtual_Host_For_Laravel.md)
 9. [How to clone multiple private repository from github to a linux server?](https://github.com/tmh-rc/how-to/blob/main/how_to_clone_multiple_private_repository_from_github_to_a_linux_server.md)
 10. [How to create custom git repo](https://github.com/tmh-rc/how-to/blob/main/How_to_create_custom_git_repo.md)
+11. [How To Create User On MySQL](https://github.com/tmh-rc/how-to/edit/main/How_To_Create_User_On_MySQL.md)
 
 ## Laravel
 1. [How to get user avatar image from facebook by token in Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Get_Facebook_Avator_Image_In_Laravel.md)
