@@ -14,6 +14,7 @@
 11. [How To Create User On MySQL](https://github.com/tmh-rc/how-to/blob/main/How_To_Create_User_On_MySQL.md)
 12. [How to create virtual with Apache](https://github.com/tmh-rc/how-to/blob/main/How_To_Create_Virtual_Host_With_Apache.md)
 13. [How To Work With Multiple Github Accounts on a single Machine](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3))
+14. [How to Add and Delete Users on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04#prerequisites)
 
 ## Laravel
 1. [How to get user avatar image from facebook by token in Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Get_Facebook_Avator_Image_In_Laravel.md)
