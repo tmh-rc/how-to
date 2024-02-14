@@ -16,6 +16,7 @@
 13. [How To Work With Multiple Github Accounts on a single Machine](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
 14. [How to Add and Delete Users on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04#prerequisites)
 15. [How to check if port is in use on Linux or Unix](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)
+16. [How to make alias in the git bash in windows](https://github.com/tmh-rc/how-to/blob/main/how_to_make_alias_in_the_git_bash_for_the_window.md)
 
 ## Laravel
 1. [How to get user avatar image from facebook by token in Laravel](https://github.com/tmh-rc/how-to/blob/main/How_To_Get_Facebook_Avator_Image_In_Laravel.md)
